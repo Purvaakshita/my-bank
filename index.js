@@ -5,7 +5,7 @@ function showHeader() {
   let str = `
   <div class="row bg-success">
           <div class="col-lg-8">
-            <h1>My Bank</h1>
+            <h1>Uni Bank</h1>
           </div>
           <div class="col-lg-4 text-end">
           <button onclick='showHome()'>Home</button>
